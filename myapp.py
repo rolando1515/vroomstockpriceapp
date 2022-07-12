@@ -2,7 +2,7 @@ import yfinance as yf
 import streamlit as st
 import pandas as pd 
 st.write("""
-#  Vroom Stock Price App
+#  Vroom stock 
 
 Shown are the stock closing price and volume of vroom!
 
